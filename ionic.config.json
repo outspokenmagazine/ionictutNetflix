@@ -1,0 +1,7 @@
+{
+  "name": "netfiUI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
